@@ -1,9 +1,7 @@
-<strong></font>
- <p align="center", font size=120px>
+<h1> <p align="center", font size=120px>
 Python Tutorial:snake:
 </p>
-<font size=120px>
- </strong>
+</h1>
 
  <p align="center">
     <img src="https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg" width="800" align="center"/>
