@@ -5,7 +5,8 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 <strong>Click on the link for Download 'Anaconda'.</strong>  https://www.anaconda.com/products/distribution#Downloads <br>
 - Anaconda
 - python 3
-
+- Anaconda
+- python 3
 <h1><center><strong><font size=120px>Introduction of Python</font></strong></center></h1>
 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
