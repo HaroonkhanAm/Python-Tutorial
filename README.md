@@ -1,4 +1,4 @@
-<h1> <p align="center" fontsize=120px>
+<h1> <p align="center">
 Python Tutorial:snake:
 </p>
 </h1>
