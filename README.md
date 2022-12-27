@@ -4,3 +4,19 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 <strong>Click on the link for Download 'Anaconda'.</strong>  https://www.anaconda.com/products/distribution#Downloads <br>
 In this python Tutorial we have covered the following topics:
 Data-Types. Comparison Operators . If &amp; Else Statement.  For &amp; While Loop Function. Lambda Function. File I/O.
+
+
+
+In this Notebook, we can learn Python language in detail with all the Concepts with the best examples. Python is used in so many fields like Develop Web-App, Software, Task Automation and Data-Analysis, etc which is the Future of the World. In this Tutorial, every topic has Two or more examples. We are using Jupytor Notebook for this Tutorial which is best for practice and professional work.
+So learn and practice <strong><font color=b16e0d> "Fly High and Touch the Sky". </font><strong>.<br>
+In this python Tutorial we have covered the following topics: 
+    
+
+- Data-Types
+- Comparison Operators
+- If & Else Statement
+- For & While Loop
+- Function
+- Lambda Function
+- File I/O
+
