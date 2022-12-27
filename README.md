@@ -3,8 +3,24 @@
  <h1><center><strong><font size=120px>Required Tools</font></strong></center></h1>
 We are using Jupyter notebook and python 3 for this tutorial. For practice this tutorial first you should install 'Anaconda' from google then install 'Jupyter notebook' in Anaconda platform. This notebook is available on Kaggle. If you like this notebook Upvote :thumbsup: me on Kaggle. <br>
 <strong>Click on the link for Download 'Anaconda'.</strong>  https://www.anaconda.com/products/distribution#Downloads <br>
+- Anaconda
+- python 3
 
 <h1><center><strong><font size=120px>Introduction of Python</font></strong></center></h1>
+
+Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
+There are some Characteristics of Python:
+- Python is a Free and open source Language.....
+- Python is very easy to Code.....
+- Easy to read.....
+- Python makes code short and Flexible.....
+- Python is object Oriented Language.....
+- GUI programming support
+- Python has Extensible Feature.....
+- It's very easy to Debug.....
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/270px-Python.svg.png" width="200" align="center"/>
+<center>Reference:<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/270px-Python.svg.png"> image Link</a></center>
 
 <h1><center><strong><font size=120px>Learn Topics:</font></strong></center></h1>
 In this python Tutorial , We can learn Python language in detail with all the Concepts with the best examples. Python is used in so many fields like Develop Web-App, Software, Task Automation and Data-Analysis, etc which is the Future of the World. In this Tutorial, every topic has Two or more examples.
