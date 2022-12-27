@@ -1,11 +1,10 @@
- <h1><strong></font>
+<strong></font>
  <p align="center", font size=120px>
 Python Tutorial:snake:
 </p>
 <font size=120px>
  </strong>
- </h1>
- 
+
  <p align="center">
     <img src="https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg" width="800" align="center"/>
  
@@ -29,7 +28,9 @@ There are some Characteristics of Python:
 - GUI programming support
 - Python has Extensible Feature
 - It's very easy to Debug
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/270px-Python.svg.png" width="200" align="center"/>
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/270px-Python.svg.png" width="200">
+</p>
 
 <h1><center><strong><font size=120px>Learn Topics:</font></strong></center></h1>
 In this python Tutorial , We can learn Python language in detail with all the Concepts with the best examples. Python is used in so many fields like Develop Web-App, Software, Task Automation and Data-Analysis, etc which is the Future of the World. In this Tutorial, every topic has Two or more examples.
