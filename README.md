@@ -14,7 +14,7 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 - Anaconda
 - python 3
 
-<h1><center><strong><font size=100px>Introduction of Python</font></strong></center></h1>
+<h1><center><strong><font size=90px>Introduction of Python</font></strong></center></h1>
 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
 There are some Characteristics of Python:
@@ -33,10 +33,8 @@ There are some Characteristics of Python:
 <h1><center><strong><font size=100px>Learn Topics:</font></strong></center></h1>
 In this python Tutorial , We can learn Python language in detail with all the Concepts with the best examples. Python is used in so many fields like Develop Web-App, Software, Task Automation and Data-Analysis, etc which is the Future of the World. In this Tutorial, every topic has Two or more examples.
 So learn and practice <strong><font color=b16e0d> "Fly High and Touch the Sky". </font><strong> <br><br>
- 
 In this python Tutorial we have covered the following topics: 
 
- 
 - Data-Types
 - Comparison Operators
 - If & Else Statement
