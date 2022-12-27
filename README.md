@@ -1,4 +1,8 @@
- <h1><center><strong><font size=120px>Python Tutorial:snake:</font></strong></center></h1><br>
+ <h1><center><strong><font size=120px></font></strong></center><br>
+ <p align="center">
+Python Tutorial:snake:
+</p>
+ </h1>
  
  <img src="https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg" width="800" align="center"/>
  <h1><center><strong><font size=120px>Required Tools</font></strong></center></h1>
