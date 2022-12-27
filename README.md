@@ -42,4 +42,3 @@ In this python Tutorial we have covered the following topics:
 - Function
 - Lambda Function
 - File I/O
-
