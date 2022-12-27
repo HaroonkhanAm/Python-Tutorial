@@ -6,7 +6,10 @@ Python Tutorial:snake:
  </strong>
  </h1>
  
- <img src="https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg" width="800" align="center"/>
+ <p align="center">
+    <img src="https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg" width="800" align="center"/>
+ 
+</p>
  <h1><center><strong><font size=120px>Required Tools</font></strong></center></h1>
 We are using Jupyter notebook and python 3 for this tutorial. For practice this tutorial first you should install 'Anaconda' from google then install 'Jupyter notebook' in Anaconda platform. This notebook is available on Kaggle. If you like this notebook Upvote :thumbsup: me on Kaggle. <br>
 <strong>Click on the link for Download 'Anaconda'.</strong>  https://www.anaconda.com/products/distribution#Downloads <br>
