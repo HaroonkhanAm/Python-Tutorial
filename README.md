@@ -1,5 +1,5 @@
-<h1> <p align="center">
-** Python Tutorial:snake:
+<h1> <p align="center" fontsize=120px>
+Python Tutorial:snake:
 </p>
 </h1>
 
